@@ -10,4 +10,4 @@ require (
 	golang.org/x/sys v0.44.0 // indirect
 )
 
-require github.com/xudefa/go-boot v1.0.2
+require github.com/xudefa/go-boot v1.0.4
